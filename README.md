@@ -1,6 +1,6 @@
 ### Hellooo, this is Jackie  👋🏼🤡
 
-A recent computer science graduate from UC Santa Cruz ![Banana Slug](https://i.ibb.co/7QLcNSs/8af12ccc466db1abd007680939cfd720-t.jpg)
+A recent computer science graduate from UC Santa Cruz &nbsp; ![Banana Slug](https://i.ibb.co/7QLcNSs/8af12ccc466db1abd007680939cfd720-t.jpg)
 
 <!--
 **jackie-csjw/jackie-csjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
